@@ -1,1 +1,1 @@
-# All-Curses-in-SoftUni
+# All-Courses-in-SoftUni
